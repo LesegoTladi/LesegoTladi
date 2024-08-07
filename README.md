@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lesego! <br/><a href="https://github.com/joshmadakor1">Aspiring Data Scientist/Data Analyst/ Business Intelligence Analysis</a>
+<h1>Hi, I'm Lesego! <br/><a href="https://github.com/joshmadakor1">Aspiring Data Scientist/ Data Analyst/ Business Intelligence Analyst</a>
 
 <h2>👨‍💻 ExploreAI Academy Data Science Projects:</h2>
 
