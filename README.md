@@ -1,11 +1,9 @@
 # 👋 About Me
 Hi, I'm **Lesego Tladi**, a **Data Scientist** passionate about using **data analysis** and **machine learning** to uncover insights and solve complex problems. My journey in data science began with a fascination for how data-driven decisions can drive innovation and progress across various industries. I am continuously working to expand my skillset, applying machine learning algorithms and tools to real-world challenges.
 
-- **Certified in Data Science**, with expertise in data analysis, visualization, and predictive modeling.
-- Experienced in using **Python**, **Machine Learning**, and **AI** to build models and extract insights.
-- Continuously improving by working on personal projects and collaborating with like-minded individuals.
-
-I’m eager to contribute to projects that leverage data to create meaningful solutions. Let’s connect if you're interested in collaborating on exciting AI or data science challenges!
+### 🎓 Education
+- **Qualification**: Information Technology from Vaal University of Technology
+- **Certification**: Data Science Certification from ExploreAI Academy
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/lesegotladi)
