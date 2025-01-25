@@ -6,7 +6,7 @@ I’m a **Data Scientist** passionate about leveraging **data analysis** and **m
 
 ### 🎓 **Education & Certifications**
 
-**🎓 Bachelor's in Information Technology**  
+**🎓 Diploma in Information Technology**  
 *Vaal University of Technology*
 
 **📜 Data Science Certification**  
@@ -31,9 +31,3 @@ I’m a **Data Scientist** passionate about leveraging **data analysis** and **m
 | 📈 **GitHub Profile Stats** | 🌍 **Top Languages** |
 |-----------------------------|----------------------|
 | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LesegoTladi&theme=radical&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/LesegoTladi) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LesegoTladi&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/LesegoTladi) |
-
----
-
-### 📅 **GitHub Contributions:**
-
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LesegoTladi&theme=solarized)
