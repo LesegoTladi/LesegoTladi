@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lesego Tladi
 
-I’m a **Data Scientist** passionate about leveraging **data analysis** and **machine learning** to solve complex problems. I specialize in extracting actionable insights from data to guide business decisions.
+I'm a **Data Scientist** focused on using **data analysis** and **machine learning** to solve problems and uncover insights. My interest in **data science** comes from the power of data to drive smart decisions and innovation. I'm constantly improving my skills and applying them to real-world challenges.
 
 ---
 
