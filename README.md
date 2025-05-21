@@ -11,6 +11,8 @@ I'm a **Data Scientist** focused on using **data analysis** and **machine learni
 
 **📜 Data Science Certification**  
 *ExploreAI Academy*
+*Salesforce AI Associate*
+
 
 ---
 
