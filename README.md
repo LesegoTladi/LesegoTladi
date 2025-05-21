@@ -7,11 +7,12 @@ I'm a **Data Scientist** focused on using **data analysis** and **machine learni
 ### 🎓 **Education & Certifications**
 
 **🎓 Diploma in Information Technology**  
-*Vaal University of Technology*
+- *Vaal University of Technology*
 
 **📜 Data Science Certification**  
-*ExploreAI Academy*
-*Salesforce AI Associate*
+- *ExploreAI Academy*
+- *Salesforce AI Associate*
+
 
 
 ---
