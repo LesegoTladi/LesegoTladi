@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Lesego Tladi
 
-I'm a **Data Scientist** focused on using **data analysis** and **machine learning** to solve problems and uncover insights. My interest in **data science** comes from the power of data to drive smart decisions and innovation. I'm constantly improving my skills and applying them to real-world challenges.
-
+I'm a Data Scientist with a passion for turning data into stories that drive smarter decisions. Skilled in Python, SQL, and Power BI (PL-300 certified), I enjoy using data analysis and machine learning to solve real problems and uncover insights that matter. For me, data isn’t just numbers — it’s a way to spark innovation and create meaningful impact.
 ---
 
 ### 🎓 **Education & Certifications**
@@ -11,7 +10,7 @@ I'm a **Data Scientist** focused on using **data analysis** and **machine learni
 - *Diploma in Information Technology — Vaal University of Technology*
 
 **Certifications**  
-- *Data Science Certificatiob - ExploreAi Academy*
+- *Data Science Certification - ExploreAi Academy*
 - *Salesforce AI Associate*
 - *Microsoft Certified: Power BI Data Analyst (PL-300)*
 
