@@ -10,8 +10,8 @@ I'm a **Data Scientist** focused on using **data analysis** and **machine learni
 - *Advanced Diploma in Information Technology — Vaal University of Technology*
 - *Diploma in Information Technology — Vaal University of Technology*
 
-**📜 Certifications**  
-- * Data Science Certification — ExploreAI Academy*
+**Certifications**  
+- *Data Science Certificatiob - ExploreAi Academy*
 - *Salesforce AI Associate*
 - *Microsoft Certified: Power BI Data Analyst (PL-300)*
 
