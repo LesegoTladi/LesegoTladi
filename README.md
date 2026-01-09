@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lesego Tladi
 
----
-### **About Me**
+
+### 🧑‍💻 **About Me**
 
 I'm a Data Scientist with a passion for turning data into stories that drive smarter decisions. Skilled in Python, SQL, and Power BI (PL-300 certified), I enjoy applying data analysis and machine learning to solve real problems and uncover insights that matter. For me, data isn’t just numbers — it’s a way to spark innovation and create meaningful impact.
 
