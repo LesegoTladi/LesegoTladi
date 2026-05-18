@@ -24,6 +24,7 @@ I'm a Data Scientist with a passion for turning data into stories that drive sma
 - *Salesforce AI Associate*
 - *Microsoft Certified: Power BI Data Analyst (PL-300)*
 -  *Microsoft Certified: Azure Data Fundamentals (DP-900)*
+-  *Microsoft Certified: Azure AI Engineer Associate(AI-102)*
 
 ---
 
